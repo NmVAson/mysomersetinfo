@@ -1,7 +1,7 @@
 #-------------------------------
 # Site Settings
-title: Danto
-description: Danto is a news and magazine Jekyll theme
+title: My Somerset Info
+description: A travel guide for Somerset, Kentucky
 logo: "/images/logo.svg" # You can add own logo. For example "/images/logo.svg".
 logo_dark: "/images/logo-dark.svg"
 color_scheme: auto # You can choose three modes auto, light, and dark. By default, the auto mode is set, which means the user can choose the light or dark mode themself.
@@ -41,8 +41,8 @@ cta_button:
 # Hero Settings
 hero:
   enable: true
-  hero_title: One Stop Daily News, Article, Inspiration, and Tips.
-  hero_description: Features productivity, tips, inspiration and strategies for massive profits. Find out how to set up a successful blog or how to make yours even better!
+  hero_title: A Local Trip Planning Guide For Our Out-of-Town Family and Friends.
+  hero_description: Restaurants — Shops — Seasonal Events — Tips
 
 
 #-------------------------------
@@ -70,7 +70,7 @@ authors_section:
 
 #-------------------------------
 # Footer Settings
-footer_description: Features productivity, tips, inspiration and strategies for massive profits. Find out how to set up a successful blog or how to make yours even better!
+footer_description: Features Somerset businesses, and seasonal trips for locals and visitors.
 
 
 # Social Links
@@ -100,7 +100,7 @@ mailchimp_settings:
 #-------------------------------
 # Contact Settings
 contact:
-  email: your@email.com # Add your form_id
+  email: giuliana@hey.com # Add your form_id
   description: Danto comes with a built-in contact form, that you can use with Formspree service to handle up to 50 submissions per month for free. You could also easily switch to another contact form service if you want. # Add a description of your form
 
 # NOTE
