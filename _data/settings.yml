@@ -13,28 +13,16 @@ menu_settings:
   menu_items:
     - title: "Home"
       url: "/"
-    - title: "Latest"
-      url: "/latest/"
-    - title: "Authors"
-      url: "/authors/"
-    - title: "Videos"
-      url: "/videos/"
-    - title: "Pages"
-      submenu:
-      - url: "/about/"
-        title: "About"
-      - url: "/elements/"
-        title: "Elements"
-      - url: "/contact/"
-        title: "Contact"
-      - url: "/featured/"
-        title: "Featured"
+    - title: "Fall"
+      url: "/featured/"
+    - title: "About"
+      url: "/about/"
 
 # Call to action button
-cta_button:
-  enable: true
-  cta_button_link: '/contact/'
-  cta_button_text: Get in touch
+# cta_button:
+#   enable: true
+#   cta_button_link: '/contact/'
+#   cta_button_text: Get in touch
 
 
 #-------------------------------
@@ -52,11 +40,9 @@ tags_section:
   number_posts: 3 # To control how many posts to show under each tag section, set the value to a number. Three is the default.
   number_columns: 3 # You can specify the number of columns from 1-4 for large screen resolution. By default, the theme uses three columns grid.
   tags:
-    - tag: "lifestyle"
-    - tag: "shopping"
-    - tag: "business"
-    - tag: "food"
-    - tag: "sport"
+    # - tag: "shopping"
+    # - tag: "food"
+    # - tag: "views"
 
 # You can add many tag sections to the homepage; each section will show the recent posts by the tag.
 
@@ -75,12 +61,12 @@ footer_description: Features Somerset businesses, and seasonal trips for locals 
 
 # Social Links
 social:
-- {icon: "twitter", link: "https://twitter.com"}
-- {icon: "facebook", link: "https://facebook.com"}
-- {icon: "codepen", link: "https://codepen.io"}
-- {icon: "pinterest", link: "https://pinterest.com"}
-- {icon: "github", link: "https://github.com"}
-- {icon: "youtube", link: "https://youtube.com"}
+# - {icon: "twitter", link: "https://twitter.com"}
+# - {icon: "facebook", link: "https://facebook.com"}
+# - {icon: "codepen", link: "https://codepen.io"}
+# - {icon: "pinterest", link: "https://pinterest.com"}
+# - {icon: "github", link: "https://github.com"}
+# - {icon: "youtube", link: "https://youtube.com"}
 
 # Example of adding a new link to the footer - {icon: "instagram", link: "https://instagram.com"}
 # Other icons can be found at https://ionicons.com/v4/
@@ -92,7 +78,7 @@ mailchimp_settings:
   enable: true
   mailchimp_title: Get interesting news
   mailchimp_description: Subscribe to our newsletter and we’ll send you the emails of latest posts.
-  mailchimp_identifier: frnla.us6.list-manage.com/subscribe/post?u=6314d69a3f315af7ce3fb00a0&amp;id=3038727cc3 # Add your MailChimp form identifier. For example - frnla.us6.list-manage.com/subscribe/post?u=6314d69a3f315af7ce3fb00a0&amp;id=3038727cc3
+  mailchimp_identifier: https://mysomerset.us21.list-manage.com/subscribe/post?u=43cf8f05d5169a40a783c5116&amp;id=f79d3f8672&amp;f_id=0087e2e6f0 # Add your MailChimp form identifier. For example - frnla.us6.list-manage.com/subscribe/post?u=6314d69a3f315af7ce3fb00a0&amp;id=3038727cc3
   mailchimp_input_text: Your email address
   mailchimp_button_text: Subscribe
 
