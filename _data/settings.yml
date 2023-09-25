@@ -78,7 +78,7 @@ mailchimp_settings:
   enable: true
   mailchimp_title: Get interesting news
   mailchimp_description: Subscribe to our newsletter and we’ll send you the emails of latest posts.
-  mailchimp_identifier: https://mysomerset.us21.list-manage.com/subscribe/post?u=43cf8f05d5169a40a783c5116&amp;id=f79d3f8672&amp;f_id=0087e2e6f0 # Add your MailChimp form identifier. For example - frnla.us6.list-manage.com/subscribe/post?u=6314d69a3f315af7ce3fb00a0&amp;id=3038727cc3
+  mailchimp_identifier: mysomerset.us21.list-manage.com/subscribe/post?u=43cf8f05d5169a40a783c5116&amp;id=f79d3f8672&amp;f_id=0087e2e6f0 # Add your MailChimp form identifier. For example - frnla.us6.list-manage.com/subscribe/post?u=6314d69a3f315af7ce3fb00a0&amp;id=3038727cc3
   mailchimp_input_text: Your email address
   mailchimp_button_text: Subscribe
 
